@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "flD+vkXLCLmfAwu9vwZmBTOshzNWfVf6b0o8hC8jhfE=",
+  "Source": "kojira.api",
+  "BasePath": "_content/kojira.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7CDC564-D886-4BC0-9328-0FBEEBFB95EA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Directory.Build.props = Directory.Build.props
+		Directory.Packages.props = Directory.Packages.props
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kojira.api", "src\kojira.api\kojira.api.csproj", "{96C1EE77-B556-4F5B-BAB6-16697E8079E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kojira.Domain", "src\kojira.Domain\kojira.Domain.csproj", "{36EA7CAD-4839-401F-A426-5560508F4457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kojira.Application", "src\kojira.Application\kojira.Application.csproj", "{15333BEB-3930-4997-94C9-F078E31D2328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kojira.Infrastructure", "src\kojira.Infrastructure\kojira.Infrastructure.csproj", "{862A3BEE-A806-45EC-BB01-FD3E52F138E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedKernel", "src\SharedKernel\SharedKernel.csproj", "{2254E5FD-458E-4B1B-8E45-810BE75836FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C1EE77-B556-4F5B-BAB6-16697E8079E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C1EE77-B556-4F5B-BAB6-16697E8079E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C1EE77-B556-4F5B-BAB6-16697E8079E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C1EE77-B556-4F5B-BAB6-16697E8079E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EA7CAD-4839-401F-A426-5560508F4457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EA7CAD-4839-401F-A426-5560508F4457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EA7CAD-4839-401F-A426-5560508F4457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EA7CAD-4839-401F-A426-5560508F4457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15333BEB-3930-4997-94C9-F078E31D2328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15333BEB-3930-4997-94C9-F078E31D2328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15333BEB-3930-4997-94C9-F078E31D2328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15333BEB-3930-4997-94C9-F078E31D2328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862A3BEE-A806-45EC-BB01-FD3E52F138E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862A3BEE-A806-45EC-BB01-FD3E52F138E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862A3BEE-A806-45EC-BB01-FD3E52F138E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862A3BEE-A806-45EC-BB01-FD3E52F138E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2254E5FD-458E-4B1B-8E45-810BE75836FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2254E5FD-458E-4B1B-8E45-810BE75836FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2254E5FD-458E-4B1B-8E45-810BE75836FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2254E5FD-458E-4B1B-8E45-810BE75836FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

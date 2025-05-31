@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "85ZbLGBQ8+o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh Harnet Ravago\\Dev\\Projects\\kojira\\src\\SharedKernel\\SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh Harnet Ravago\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Josh Harnet Ravago\\.nuget\\packages\\sonaranalyzer.csharp\\10.7.0.110445\\sonaranalyzer.csharp.10.7.0.110445.nupkg.sha512"
+  ],
+  "logs": []
+}

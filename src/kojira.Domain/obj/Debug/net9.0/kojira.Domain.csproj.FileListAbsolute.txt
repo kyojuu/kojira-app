@@ -1,0 +1,15 @@
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\bin\Debug\net9.0\kojira.Domain.deps.json
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\bin\Debug\net9.0\kojira.Domain.dll
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\bin\Debug\net9.0\kojira.Domain.pdb
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\kojira.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\kojira.Domain.AssemblyInfoInputs.cache
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\kojira.Domain.AssemblyInfo.cs
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\kojira.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\kojira.Domain.dll
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\refint\kojira.Domain.dll
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\kojira.Domain.pdb
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\ref\kojira.Domain.dll
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\bin\Debug\net9.0\SharedKernel.dll
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\bin\Debug\net9.0\SharedKernel.pdb
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\kojira.Domain.csproj.AssemblyReference.cache
+C:\Users\Josh Harnet Ravago\Dev\Projects\kojira\src\kojira.Domain\obj\Debug\net9.0\kojira.D.87981321.Up2Date
